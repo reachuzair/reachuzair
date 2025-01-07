@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Uzair &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
+<h1 align="center">Hi there! &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
 
-<h3 align="center">Machine Learning Engineer | Artificial Intelligence Specialist | Python Developer | Full Stack</h3>
+<h3 align="center"> Software Engineer | Full Stack | Artificial Intelligence Specialist | Python Developer </h3>
 
 🚀 About Me
 I am a Software and AI Engineer with 10+ years of experience in designing, developing, and deploying Mobile, Web, and AI solutions. I specialize in leveraging React.js, Node.js, Python, Javascript, TypeScript, TensorFlow, and PyTorch to create scalable systems that solve real-world challenges. 
