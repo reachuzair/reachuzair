@@ -53,16 +53,25 @@ I am a Machine Learning and AI Engineer with 5+ years of experience in designing
 
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence. 
 
-
 <br>
+
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   944 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+```
 
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Uzair](https://github.com/reachuzair) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
 </h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
