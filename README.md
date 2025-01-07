@@ -70,7 +70,7 @@ Sunday                   944 commits         █████░░░░░░�
 <h3>
 <div align="center">
   
-⭐️ From [Uzair](https://github.com/reachuzair) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+From [Uzair](https://github.com/reachuzair) | Let's innovate together! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 </div>
