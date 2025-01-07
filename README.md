@@ -2,8 +2,7 @@
 
 <h3 align="center"> Software Engineer | Full Stack | Artificial Intelligence Specialist | Python Developer </h3>
 
-🚀 About Me
-I am a Software and AI Engineer with 10+ years of experience in designing, developing, and deploying Mobile, Web, and AI solutions. I specialize in leveraging React.js, Node.js, Python, Javascript, TypeScript, TensorFlow, and PyTorch to create scalable systems that solve real-world challenges. 
+Software and AI Engineer with 10+ years of experience in designing, developing, and deploying Mobile, Web, and AI solutions. I specialize in leveraging React.js, Node.js, Python, Javascript, TypeScript, TensorFlow, and PyTorch to create scalable systems that solve real-world challenges. 
 
 ### Tools I work with
 <p>
