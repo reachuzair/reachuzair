@@ -2,17 +2,8 @@
 
 <h3 align="center">Machine Learning Engineer | Artificial Intelligence Specialist | Python Developer | Full Stack</h3>
 
-### 🚀 About Me
-I am a Machine Learning and AI Engineer with 5+ years of experience in designing, developing, and deploying machine learning models and AI solutions. I specialize in leveraging Python, Javascript, TensorFlow, and PyTorch to create scalable AI systems that solve real-world challenges. 
-
-
-** I’m looking to collaborate on**
-- AI-Powered Applications
-- End-to-End Machine Learning Pipelines
-
-**Ask me about**
-- Explainable AI (XAI) Solutions
-- Scalable AI/ML Systems for Business
+🚀 About Me
+I am a Software and AI Engineer with 10+ years of experience in designing, developing, and deploying Mobile, Web, and AI solutions. I specialize in leveraging React.js, Node.js, Python, Javascript, TypeScript, TensorFlow, and PyTorch to create scalable systems that solve real-world challenges. 
 
 ### Tools I work with
 <p>
