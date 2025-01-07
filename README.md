@@ -6,7 +6,7 @@
 I am a Machine Learning and AI Engineer with 5+ years of experience in designing, developing, and deploying machine learning models and AI solutions. I specialize in leveraging Python, Javascript, TensorFlow, and PyTorch to create scalable AI systems that solve real-world challenges. 
 
 
-**👯 I’m looking to collaborate on**
+** I’m looking to collaborate on**
 - AI-Powered Applications
 - End-to-End Machine Learning Pipelines
 
