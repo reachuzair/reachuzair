@@ -1,8 +1,19 @@
-<h1 align="left">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
+<h1 align="center">Hi there, I'm Uzair &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
 
-<p align="center">
-  Content Creator | Gamer | Tech Enthusiast
-</p>
+<h3 align="center">Machine Learning Engineer | Artificial Intelligence Specialist | Python Developer | Full Stack</h3>
+### 🚀 About Me
+I am a Machine Learning and AI Engineer with 5+ years of experience in designing, developing, and deploying machine learning models and AI solutions. I specialize in leveraging Python, Javascript, TensorFlow, and PyTorch to create scalable AI systems that solve real-world challenges. 
+
+
+**👯 I’m looking to collaborate on**
+- AI-Powered Applications
+- End-to-End Machine Learning Pipelines
+
+**Ask me about**
+- Explainable AI (XAI) Solutions
+- Scalable AI/ML Systems for Business
+
+### Tools I work with
 
 <div align="center">
 <div align="center">
